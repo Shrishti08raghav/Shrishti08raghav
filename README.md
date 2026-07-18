@@ -260,8 +260,8 @@ goals_2026: "Authoring a computer vision research paper & contributing to LangCh
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrishti08raghav&show_icons=true&theme=dracula" alt="Shrishti's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrishti08raghav&layout=compact&theme=dracula" alt="Shrishti's Top Languages" width="48%" />
+ 
+  
 </div>
 
 <br />
@@ -273,19 +273,12 @@ goals_2026: "Authoring a computer vision research paper & contributing to LangCh
 
 <br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shrishti08raghav&theme=dracula" alt="GitHub Trophies" />
+
 </div>
 
 <br />
 
-<div align="center">
-  <h3>👾 Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrishti08raghav/Shrishti08raghav/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Shrishti08raghav/Shrishti08raghav/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
 
 ---
 
