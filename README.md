@@ -147,30 +147,6 @@ An intelligent agricultural application that identifies crop varieties, analyzes
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Book Hub
-**Semantic Discovery Platform**
-
-A modern book cataloging and recommendation system with a semantic search backend for intelligent title discovery.
-
-- Personalized list management (To-Read, Read)
-- Query-expansion semantics for user interest profiles
-- Secure relational database models for ratings
-- **Impact:** Faster, more intuitive digital library discovery
-
-`Python` `FastAPI` `SQL` `HTML5` `CSS3`
-
-[🔗 View Repository](https://github.com/Shrishti08raghav)
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-
-> More projects and experiments are continuously added to my GitHub — feel free to explore the repositories above for code, documentation, and demos.
-
-</td>
-</tr>
-</table>
 
 <br/>
 
