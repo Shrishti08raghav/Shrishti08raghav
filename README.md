@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&height=45&lines=AI+Engineer;Machine+Learning+Developer;Computer+Vision+Engineer;Full+Stack+AI+Developer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&height=45&lines=Eploring+Agentic+AI+&+Cloud;Building+the+Future+with+AI;Computer+Vision+Engineer;Full+Stack+AI+Developer" alt="Typing SVG"/>
 
 <br/><br/>
 
