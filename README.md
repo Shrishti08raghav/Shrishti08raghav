@@ -27,7 +27,7 @@ I'm a **B.Tech student specializing in Artificial Intelligence & Data Science** 
 
 As an **AI Engineer and Computer Vision Developer**, I focus on bridging the gap between theoretical machine learning models and production-ready applications. My expertise lies in designing **Agentic AI systems**, deploying custom **Large Language Model (LLM) workflows**, and engineering robust **Computer Vision pipelines**. Using frameworks like **LangChain**, **FastAPI**, and **OpenAI APIs**, I build intelligent software that sees, reasons, and acts to solve real-world industry challenges.
 
-
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -144,11 +144,9 @@ An intelligent agricultural application that identifies crop varieties, analyzes
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
+</table>
 
-
-
+<br/>
 
 ## 🏆 Achievements
 
@@ -160,8 +158,6 @@ An intelligent agricultural application that identifies crop varieties, analyzes
 | 🌐 **Open Source Journey** | Enthusiastic contributor to AI-focused open-source repositories and developer tools |
 
 <br/>
-
-
 
 ## 🤝 Connect With Me
 
