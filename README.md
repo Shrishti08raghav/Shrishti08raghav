@@ -261,7 +261,7 @@ goals_2026: "Authoring a computer vision research paper & contributing to LangCh
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrishti08raghav&show_icons=true&theme=dracula" alt="Shrishti's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishti08raghav&layout=compact&theme=dracula" alt="Shrishti's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrishti08raghav&layout=compact&theme=dracula" alt="Shrishti's Top Languages" width="48%" />
 </div>
 
 <br />
