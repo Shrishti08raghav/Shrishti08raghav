@@ -87,157 +87,12 @@ As a passionate **AI Engineer and Computer Vision Developer**, I am dedicated to
 
 ---
 
-## 🚀 Featured Projects
 
-<details>
-<summary><b>🌉 Bridge Guardian — Autonomous Bridge Inspection System</b></summary>
-<br>
 
-### Description
-An advanced computer vision and sensor-based autonomous system designed for real-time monitoring and structural analysis of bridges to identify structural defects (cracks, corrosion) and assess safety factors.
 
-### Key Features
-- **Real-Time Crack Detection:** Utilizes OpenCV for processing camera feeds to highlight micro-fractures in concrete.
-- **Sensor Fusion Integration:** Merges structural vibration and load data with visual feeds.
-- **Automated Alerts:** FastAPI-backed notification system to alert engineers of threshold violations.
 
-### Tech Stack
-`Python` `OpenCV` `FastAPI` `MediaPipe` `NumPy`
 
-### Impact
-Improves inspection speed by 60% and reduces manual hazard exposure for structural engineers by automating dangerous climbs.
 
-<a href="https://github.com/Shrishti08raghav" target="_blank"><img src="https://img.shields.io/badge/View_Repository-BD93F9?style=for-the-badge&logo=github&logoColor=282A36" alt="View Repo" /></a>
-</details>
-
-<br>
-
-<details>
-<summary><b>🖱️ Phantom Mouse — Gesture Based Virtual Mouse</b></summary>
-<br>
-
-### Description
-A touchless human-computer interface system leveraging computer vision to control cursor movement, clicks, and scrolling using real-time hand gestures.
-
-### Key Features
-- **Real-Time Hand Tracking:** Custom tracking landmarks to identify hand geometry and movement.
-- **Gesture Mapping:** Maps specific finger positions to mouse controls (left/right clicks, drag, and scroll).
-- **Adaptive Smoothing:** Employs math filters to eliminate hand jitter and improve tracking precision.
-
-### Tech Stack
-`Python` `OpenCV` `MediaPipe` `PyAutoGUI` `NumPy`
-
-### Impact
-Enables a highly intuitive, hygienic interface for public kiosks and serves as an accessibility tool for individuals with mobility challenges.
-
-<a href="https://github.com/Shrishti08raghav" target="_blank"><img src="https://img.shields.io/badge/View_Repository-BD93F9?style=for-the-badge&logo=github&logoColor=282A36" alt="View Repo" /></a>
-</details>
-
-<br>
-
-<details>
-<summary><b>🌾 AI Crop Detection System</b></summary>
-<br>
-
-### Description
-An intelligent agricultural computer vision application designed to identify crop types, analyze health status, and detect crop diseases from digital images.
-
-### Key Features
-- **Disease Classification:** Detects common crop diseases and alerts the user with severity metrics.
-- **Health Heatmaps:** Highlights zones in image scans indicating nutrient deficiency or water stress.
-- **Treatment Recommendation:** Provides immediate suggestions for fertilizer application and recovery.
-
-### Tech Stack
-`Python` `OpenCV` `TensorFlow/PyTorch` `Pandas` `NumPy`
-
-### Impact
-Empowers farmers to take proactive crop protection measures, resulting in up to a 20% increase in crop yield.
-
-<a href="https://github.com/Shrishti08raghav" target="_blank"><img src="https://img.shields.io/badge/View_Repository-BD93F9?style=for-the-badge&logo=github&logoColor=282A36" alt="View Repo" /></a>
-</details>
-
-<br>
-
-<details>
-<summary><b>💡 AI Idea & Startup Generator</b></summary>
-<br>
-
-### Description
-An LLM-powered platform that analyzes current market gaps, generates viable startup concepts, constructs business models, and drafts product-market fit reports.
-
-### Key Features
-- **Market Size Estimation:** Leverages generative AI to estimate potential market size and TAM/SAM.
-- **Business Model Canvas:** Automatically drafts an interactive business model canvas with key partners, activities, and value propositions.
-- **Competitor Analysis:** Identifies potential competitors and suggests unique selling propositions (USPs).
-
-### Tech Stack
-`LangChain` `OpenAI API` `FastAPI` `Python` `Vercel`
-
-### Impact
-Accelerates the ideation phase for entrepreneurs from days to seconds with data-backed startup briefs.
-
-<a href="https://github.com/Shrishti08raghav" target="_blank"><img src="https://img.shields.io/badge/View_Repository-BD93F9?style=for-the-badge&logo=github&logoColor=282A36" alt="View Repo" /></a>
-</details>
-
-<br>
-
-<details>
-<summary><b>📚 Book Hub</b></summary>
-<br>
-
-### Description
-A modern, user-centric book recommendation and management application with semantic search capabilities.
-
-### Key Features
-- **Personalized Reading Lists:** Lets users organize books by reading status and custom bookshelves.
-- **Semantic Book Search:** Uses vector embedding concepts or structured query tags to match reader interests.
-- **Review Sharing System:** Seamless database models to manage user comments and ratings.
-
-### Tech Stack
-`Python` `HTML5` `CSS3` `SQL` `FastAPI`
-
-### Impact
-Streamlines library management and improves discovery of new authors through a clean and responsive interface.
-
-<a href="https://github.com/Shrishti08raghav" target="_blank"><img src="https://img.shields.io/badge/View_Repository-BD93F9?style=for-the-badge&logo=github&logoColor=282A36" alt="View Repo" /></a>
-</details>
-
-<br>
-
-<details>
-<summary><b>💳 Expense Tracker</b></summary>
-<br>
-
-### Description
-A smart personal finance manager that categorizes expenses, monitors monthly budgets, and generates visualization reports.
-
-### Key Features
-- **Interactive Budget Visualization:** Leverages graphical representations to display monthly spending patterns.
-- **Threshold Alerts:** Notifies users when spending approaches or exceeds predefined category limits.
-- **Categorization Engine:** Auto-assigns categories to transactions for structured logging.
-
-### Tech Stack
-`JavaScript` `HTML5` `CSS3` `SQL`
-
-### Impact
-Promotes financial health and awareness by giving users immediate visual insights into their spending habits.
-
-<a href="https://github.com/Shrishti08raghav" target="_blank"><img src="https://img.shields.io/badge/View_Repository-BD93F9?style=for-the-badge&logo=github&logoColor=282A36" alt="View Repo" /></a>
-</details>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-learning: "Advanced Agentic Workflows & Multi-Agent Orchestration"
-building: "Scalable RAG architectures & Production-grade FastAPI endpoints"
-exploring: "Fine-tuning Small Language Models (SLMs) for Edge Devices"
-looking_for: "Collaboration on open-source AI tools and internships in AI/ML"
-goals_2026: "Authoring a computer vision research paper & contributing to LangChain"
-```
-
----
 
 ## 🏆 Achievements
 
@@ -248,39 +103,8 @@ goals_2026: "Authoring a computer vision research paper & contributing to LangCh
 
 ---
 
-## 🏅 Certifications
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML%20Essential%20Training-LinkedIn%20Learning-FF79C6?style=for-the-badge&logo=linkedin&logoColor=282A36" alt="HTML Essential Training" />
-  <img src="https://img.shields.io/badge/CSS%20Essential%20Training-LinkedIn%20Learning-BD93F9?style=for-the-badge&logo=linkedin&logoColor=282A36" alt="CSS Essential Training" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
- 
-  
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrishti08raghav&theme=dracula" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrishti08raghav&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=true" alt="Activity Graph" width="48%" />
-</div>
-
-<br />
 
 
-</div>
-
-<br />
-
-
-
----
 
 ## 🤝 Connect With Me
 
