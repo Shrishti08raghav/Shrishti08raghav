@@ -148,7 +148,7 @@ An intelligent agricultural application that identifies crop varieties, analyzes
 <td width="50%" valign="top">
 
 
-<br/>
+
 
 ## 🏆 Achievements
 
