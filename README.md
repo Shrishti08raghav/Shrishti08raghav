@@ -3,8 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=220&section=header&text=Shrishti%20Raghav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Agentic%20Systems&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
 
 <br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&height=45&lines=Eploring+Agentic+AI+&+Cloud;Building+the+Future+with+AI;Computer+Vision+Engineer;Full+Stack+AI+Developer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&height=45&lines=Exploring+Agentic+AI+%26+Cloud;Building+the+Future+with+AI;Computer+Vision+Engineer;Full+Stack+Developer;AI+Engineer" alt="Typing SVG"/>
 
 <br/><br/>
 
